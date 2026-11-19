@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/Demo/DeskBot_demo",
+    "cmake.buildDirectory": "${workspaceFolder}/Demo/DeskBot_demo/bin",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "C_Cpp.errorSquiggles": "disabled"
+}

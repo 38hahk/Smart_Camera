@@ -1,0 +1,37 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color_op.c.o: \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_color_op.c \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_color_op_private.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_color_op.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_assert.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/../lv_conf_internal.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/../lv_conf_kconfig.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lv_conf.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/conf/dev_conf.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_log.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_types.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stdint.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stddef.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stdbool.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/inttypes.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include-fixed/limits.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include-fixed/syslimits.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/limits.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/posix1_lim.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/local_lim.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/linux/limits.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_local_lim.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/sysdrv/source/buildroot/buildroot-2023.02.6/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/posix2_lim.h \
+ /home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include/stdarg.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/../stdlib/lv_mem.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/../stdlib/lv_string.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_math.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_color.h \
+ /home/book/Echo-Mate/Demo/DeskBot_demo/lvgl/src/misc/lv_palette.h

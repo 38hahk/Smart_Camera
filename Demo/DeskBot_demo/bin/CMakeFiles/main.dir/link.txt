@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.c.o -o main  gui_app/libgui_app.a utils/libutils.a common/libcommon.a lib/liblvgl.a lib/liblvgl_thorvg.a /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libdrm.so -lm -lpthread -ljson-c /usr/lib/x86_64-linux-gnu/libcurl.so -lavformat -lavcodec -lavutil -lswscale -lswresample -lportaudio -lasound lib/liblvgl.a -lm -lpthread 

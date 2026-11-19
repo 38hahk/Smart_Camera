@@ -1,0 +1,2 @@
+/home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-ar qc libyoloCameraCore.a CMakeFiles/yoloCameraCore.dir/postprocess.cc.o CMakeFiles/yoloCameraCore.dir/AIcamera_c_interface.cc.o CMakeFiles/yoloCameraCore.dir/rknpu2/yolov5_rv1106_1103.cc.o CMakeFiles/yoloCameraCore.dir/cam_capture.cc.o
+/home/book/Echo-Mate/SDK/rv1106-sdk/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-ranlib libyoloCameraCore.a
